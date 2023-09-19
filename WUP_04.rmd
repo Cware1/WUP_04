@@ -88,5 +88,9 @@ I ran TukeyHSD test
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The analysis of the 2018 General Social Survey (GSS) data provides strong evidence to reject the null hypothesis ($H_0$) that there is no difference between the average score on the WORDSUM test and the level of schooling (DEGREE). Instead, the data suggests a significant difference in average WORDSUM scores between at least two levels of DEGREE.
 
+Specifically, the mean and median WORDSUM scores of individuals with lower education levels, such as "LT HIGH SCHOOL" and "HIGH SCHOOL," are notably lower than those of individuals with higher education levels, such as "BACHELOR" and "GRADUATE." This implies that education level has a significant impact on WORDSUM scores, and individuals with higher education levels tend to have higher scores on the WORDSUM test.
+
+These findings underscore the importance of education in cognitive abilities and have implications for policy and educational interventions aimed at improving cognitive skills among individuals with lower levels of education. Further research may explore the underlying factors contributing to these differences in WORDSUM scores among education levels.
 
