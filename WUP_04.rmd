@@ -75,13 +75,18 @@ conf_interval <- confint(model1, level = 0.98)
 summary.aov(model1)
 ```
 
+Ran a confidence interval test and the above results show a much higher mean for DEGREE.
+
 ```{r include=TRUE,echo=FALSE}
 par(mar = c(3, 15, 2, 2))
 plot(TukeyHSD(model1,conf.level = 0.98),las=2)
 ```
 
-
+I ran TukeyHSD test 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
